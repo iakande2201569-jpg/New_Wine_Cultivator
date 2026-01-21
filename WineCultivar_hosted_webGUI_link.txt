@@ -1,0 +1,6 @@
+Name: Akande Ibukunoluwapo Sijibomi
+Matric Number: 22CG031822
+Machine Learning Algorithm Used: Logistic Regression
+Model persistence method used: Joblib
+Live URL: [Your Render URL]
+GitHub repository link: [Your GitHub URL]
