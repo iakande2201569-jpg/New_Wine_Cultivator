@@ -3,4 +3,4 @@ Matric Number: 22CG031822
 Machine Learning Algorithm Used: Logistic Regression
 Model persistence method used: Joblib
 Live URL: [Your Render URL]
-GitHub repository link: [Your GitHub URL]
+GitHub repository link: https://github.com/iakande2201569-jpg/New_Wine_Cultivator
